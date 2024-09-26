@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        ""
+    ],
+    "files.associations": {
+        "*.ejs": "html",
+        "stdio.h": "c",
+        "iostream": "cpp"
+    }
+}
